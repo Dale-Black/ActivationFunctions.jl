@@ -1,6 +1,9 @@
 ### A Pluto.jl notebook ###
 # v0.19.40
 
+#> [frontmatter]
+#> title = "API"
+
 using Markdown
 using InteractiveUtils
 
