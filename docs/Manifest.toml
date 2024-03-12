@@ -11,7 +11,9 @@ uuid = "6e696c72-6542-2067-7265-42206c756150"
 version = "1.3.0"
 
 [[deps.ActivationFunctions]]
-path = "/Users/daleblack/Library/CloudStorage/GoogleDrive-dalejamesblack@gmail.com/My Drive/dev/julia/ActivationFunctions.jl"
+git-tree-sha1 = "c10efb20bbdb9fa8671e5e7204aa6d177e14ab09"
+repo-rev = "main"
+repo-url = "https://github.com/Dale-Black/ActivationFunctions.jl?tab=readme-ov-file"
 uuid = "dbee66e4-1177-4aee-948b-a2fd7c1a6f8f"
 version = "0.1.0"
 
