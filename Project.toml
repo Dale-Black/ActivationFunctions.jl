@@ -1,0 +1,4 @@
+name = "ActivationFunctions"
+uuid = "dbee66e4-1177-4aee-948b-a2fd7c1a6f8f"
+authors = ["Dale Black <djblack@uci.edu>"]
+version = "0.1.0"
